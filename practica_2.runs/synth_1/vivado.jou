@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Oct  6 22:13:35 2022
+# Process ID: 21292
+# Current directory: D:/Usuarios/Cesar Perez/Documentos/Curso Otoo 2022/ArqFuncional/practica_2/practica_2.runs/synth_1
+# Command line: vivado.exe -log secuencia.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source secuencia.tcl
+# Log file: D:/Usuarios/Cesar Perez/Documentos/Curso Otoo 2022/ArqFuncional/practica_2/practica_2.runs/synth_1/secuencia.vds
+# Journal file: D:/Usuarios/Cesar Perez/Documentos/Curso Otoo 2022/ArqFuncional/practica_2/practica_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source secuencia.tcl -notrace
